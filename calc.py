@@ -11,7 +11,7 @@ def square(a):
     return a * b
 
 def square(a)
-    return a ** 2
+    return a**2
 
 
 def mod(a, b):
