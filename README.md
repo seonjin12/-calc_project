@@ -19,4 +19,4 @@ def div(a, b):
 return a / b
 ```
 
-고맙습니다 :)
+Thanks :)
