@@ -1,8 +1,14 @@
 def sum(a, b):
     return a + b
 
-def sub(a, b)
+def sub(a, b):
     return a - b
+
+def square(a):
+    return a * b
+
+def square(a)
+    return a ** 2
 
 def mul(a, b):
     return a * b
