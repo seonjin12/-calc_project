@@ -13,10 +13,19 @@ return a -b
 ```
 def mul(a, b):
 return a *+* b
+
+제곱
+def square(a):
+    return a ** 2
+
+
 ```-나누기
 ```
 def div(a, b):
 return a / b
 ```
+### 2. 개발자
+-이선진
+
 
 Thanks :)
