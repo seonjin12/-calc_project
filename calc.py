@@ -22,3 +22,6 @@ def div(a, b):
         return 0 
     else:
         return a / b
+
+def timesthree(a,b):
+    return a**3
