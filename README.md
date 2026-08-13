@@ -15,16 +15,25 @@ def sub(a, b):
 ```
 
 - **곱하기**
+```python
 def mul(a, b):
     return a * b
   ```
 
 - **나누기**
+```python
 def div(a, b):
     return a / b
   ```
 
 - **제곱**
+```python
 def square(a, b):
     return a ** b
+```
+
+## 2. 개발자
+```pyhon
+이선진
+tjswlseonjin@naver.com
 ```
