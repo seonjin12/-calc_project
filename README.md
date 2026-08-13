@@ -36,7 +36,6 @@ def square(a, b):
 ```pyhon
 이선진
 tjswlseonjin@naver.com
-```
-감사합니다. THANKS
-```
+
+고맙습니다 :) Thanks :)
 ```
