@@ -33,9 +33,6 @@ def square(a, b):
 ```
 
 ## 2. 개발자
-```pyhon
-이선진
-tjswlseonjin@naver.com
-```
+- **이선진** (`hyeonwoo0531@naver.com`)
+
 고맙습니다 :) Thanks :)
-```
